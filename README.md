@@ -8,10 +8,9 @@
 - Lately, I've been working on 📱 Android app development and 🌐 web development using Django, Python, PostgreSQL and MongoDB.
 - 🌐 Recently started exploring golang too.
 - I love 🏎 Formula 1, 🏸 Badminton and ♟ Chess
+#
 
-
-## 🔗 Feel free to reach out to me 
-
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rashanjyotg@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rashanjyot/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/rashanjyot/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-grey?style=for-the-badge&logo=gmail)](mailto:rashanjyotg@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rashanjyot/)
+[![Instagram](https://img.shields.io/badge/-Instagram-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/rashanjyot/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-grey?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10184009/rashanjyot-singh-arora)

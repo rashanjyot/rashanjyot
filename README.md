@@ -2,11 +2,10 @@
 > Recent update(s): <br>
 > a) Published a blog on [Structured Concurrency in action! (using Kotlin coroutines)](https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755) <br>
 > b) Focussing on improving code quality and developer experience for large-scale projects.
-- 👨‍💻 #SelfTaught Developer, currently solving challenges around digitisation of millions of Indian SMEs at a hyperscale startup, [OkCredit](https://play.google.com/store/apps/details?id=in.okcredit.merchant&hl=en_IN&gl=US).
+- 👨‍💻 Currently solving challenges around digitisation of millions of Indian SMEs at a hyperscale startup, [OkCredit](https://play.google.com/store/apps/details?id=in.okcredit.merchant&hl=en&gl=US).
 - 😎 I strongly believe in the concept of [multipotentiality](https://en.wikipedia.org/wiki/Multipotentiality).
 - 🤓 I'm geeky and like to obsess over little details. 
 - Lately, I've been working on 📱 Android app development and 🌐 web development using Django, Python, PostgreSQL and MongoDB.
-- 🌐 Recently started exploring golang too.
 - I love 🏎 Formula 1, 🏸 Badminton and ♟ Chess
 #
 

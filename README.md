@@ -12,5 +12,4 @@
 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-grey?style=for-the-badge&logo=gmail)](mailto:rashanjyotg@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rashanjyot/)
-[![Instagram](https://img.shields.io/badge/-Instagram-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/rashanjyot/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-grey?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10184009/rashanjyot-singh-arora)
